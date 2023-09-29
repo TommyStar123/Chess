@@ -16,11 +16,17 @@ The list of commands include:
 - _resign_ - used to resign during the current player's turn during a game
 - _move <origin square> <destination square>_ - origin and destination squares are specified through column (alphabetical letter) followed by row (number), ex. _move e7 e6_
 - _setup_ - used to setup a board before starting a game; if a board has not been setup the game will use the default chess board with the typical black and white pieces on each side
-    - certain restrictions are required to exit setup mode: Pawns can’t be at the end of the board and there must be 1 black King and 1 white King
+    - Certain restrictions are required to exit setup mode:
+        - Pawns can’t be at the end of the board and there must be 1 black King and 1 white King
 
 Additional notes:
 (_game_ and _setup_ can only be run while a game is currently not in progress)
 ( _resign_ and _move_ can only be run while a game is currently in progress)
+
+As seen below, there are two visual displays of the chess board, both of which update after each move:
+![image](https://github.com/TommyStar123/Chess/assets/67210363/1ac94e45-957b-4265-83ce-3e33747ab9eb)
+
+
 
 
 
