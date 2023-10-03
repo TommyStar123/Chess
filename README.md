@@ -27,13 +27,26 @@ Additional notes:
 As seen below, there are two visual displays of the chess board, both of which update after each move:
 ![image](https://github.com/TommyStar123/Chess/assets/67210363/1ac94e45-957b-4265-83ce-3e33747ab9eb)
 
-The video below contains 6 examples:
-- 0:00 - All commands
-- 0:58 - Castling on both sides
-- 1:49 - Stalemate
-- 2:11 - En Passant
-- 2:49 - Pawn Promotion using computers
-- 3:29 - Regular Checkmate
+There are 6 videos below, each showing a different feature/example:
+1) All commands
+https://github.com/TommyStar123/Chess/assets/67210363/87f58edf-64a8-40a8-8049-b22657a41a81
+
+2) Castling on both sides
+https://github.com/TommyStar123/Chess/assets/67210363/e2909935-5c37-403e-be95-a9dc8705531a
+   
+3) Stalemate
+https://github.com/TommyStar123/Chess/assets/67210363/e163978f-c531-40a1-a4f2-669090f7116a
+
+4) En Passant
+https://github.com/TommyStar123/Chess/assets/67210363/45e03456-d58d-4604-a105-7381a9290c71
+  
+5) Pawn Promotion using computers
+https://github.com/TommyStar123/Chess/assets/67210363/2fca6d00-e9c8-44c1-855a-ac2bca8be19f
+
+6) Regular Checkmate
+https://github.com/TommyStar123/Chess/assets/67210363/30055530-3a34-4e9d-8f63-9a2599ff9b3d
+
+
 
 
 
