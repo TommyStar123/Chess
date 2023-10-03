@@ -29,7 +29,7 @@ As seen below, there are two visual displays of the chess board, both of which u
 
 There are 6 videos below, each showing a different feature/example:
 1) All commands
-https://github.com/TommyStar123/Chess/assets/67210363/87f58edf-64a8-40a8-8049-b22657a41a81
+![video](https://github.com/TommyStar123/Chess/assets/67210363/87f58edf-64a8-40a8-8049-b22657a41a81)
 
 2) Castling on both sides
 https://github.com/TommyStar123/Chess/assets/67210363/e2909935-5c37-403e-be95-a9dc8705531a
