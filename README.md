@@ -34,14 +34,11 @@ There are 6 videos below, each showing a different feature/example:
    
 3) ![Stalemate](https://github.com/TommyStar123/Chess/assets/67210363/e163978f-c531-40a1-a4f2-669090f7116a)
 
-4) En Passant
-https://github.com/TommyStar123/Chess/assets/67210363/45e03456-d58d-4604-a105-7381a9290c71
+4) ![En Passant](https://github.com/TommyStar123/Chess/assets/67210363/45e03456-d58d-4604-a105-7381a9290c71)
   
-5) Pawn Promotion using computers
-https://github.com/TommyStar123/Chess/assets/67210363/2fca6d00-e9c8-44c1-855a-ac2bca8be19f
+5) ![Pawn Promotion using computers](https://github.com/TommyStar123/Chess/assets/67210363/2fca6d00-e9c8-44c1-855a-ac2bca8be19f)
 
-6) Regular Checkmate
-https://github.com/TommyStar123/Chess/assets/67210363/30055530-3a34-4e9d-8f63-9a2599ff9b3d
+6) ![Regular Checkmate](https://github.com/TommyStar123/Chess/assets/67210363/30055530-3a34-4e9d-8f63-9a2599ff9b3d)
 
 
 
