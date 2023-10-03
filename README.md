@@ -1,5 +1,6 @@
 # Chess
-This project was a full recreation of chess using C++, displayed using xWindows graphics. 
+This project is a full recreation of chess using C++, displayed using xWindows graphics. All features, including En Passant, pawn promotion, and castling are implemented. 
+Bonus features include computer bots of 3 difficulties and a visual display of the chess board.
 
 ## Project Design
 Before beginning the project, a UML was created to plan out the design and structure of the classes. This can be seen below:
@@ -26,7 +27,13 @@ Additional notes:
 As seen below, there are two visual displays of the chess board, both of which update after each move:
 ![image](https://github.com/TommyStar123/Chess/assets/67210363/1ac94e45-957b-4265-83ce-3e33747ab9eb)
 
-
+The video below contains 6 examples:
+- 0:00 - All commands
+- 0:58 - Castling on both sides
+- 1:49 - Stalemate
+- 2:11 - En Passant
+- 2:49 - Pawn Promotion using computers
+- 3:29 - Regular Checkmate
 
 
 
